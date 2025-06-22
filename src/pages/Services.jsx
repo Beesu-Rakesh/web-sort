@@ -1,5 +1,5 @@
 import uiux from '../assets/uiux.jpg';
-import WebDesign from '../assets/EebDesign.png';
+import WebDesign from '../assets/WebDesign.png';
 import AppDevelopment from '../assets/AppDevelopment.png';
 import DigitalMarheting from '../assets/DigitalMarketing.png';
 import ServicesBg from '../assets/ServicesBg.png';
