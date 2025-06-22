@@ -190,6 +190,7 @@
     width: 200px;
 }
 
+
 @media (max-width: 768px) {
     .hero-meta{
     width: 500px;
