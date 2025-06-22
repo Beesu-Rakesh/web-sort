@@ -1,4 +1,4 @@
-import UIUX from '../assets/uiux.png';
+import uiux from '../assets/uiux.png';
 import WebDesign from '../assets/webdesign.png';
 import AppDevelopment from '../assets/appdevelopment.png';
 import DigitalMarheting from '../assets/digitalmarketing.png';
@@ -12,7 +12,7 @@ const Services = () => {
       <main className="relative overflow-hidden bg-cover" style={{ backgroundImage: `url(${ServicesBg})`}}>
         <h1 className='services-main'>Our Services</h1>
         <div className='service-container'>
-          <img src={UIUX} alt="uiux-image" className='services-image'/>
+          <img src={uiux} alt="uiux-image" className='services-image'/>
           <div className='ml-12 mt-3 hidden md:block'>
             <h1 className='services-type'>UI/UX Design</h1>
             <p className='services-description mt-4'>We design clean, intuitive, and engaging user interfaces that enhance the overall user experience. From wireframes to final designs, our focus is on usability, consistency, and creating visually appealing digital products that users love.</p>
