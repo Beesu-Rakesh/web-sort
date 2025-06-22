@@ -2,7 +2,7 @@ import ProjectsHeroBg from '../assets/ProjectsHeroBg.png';
 import ProjectsBg1 from '../assets/ProjectsBg1.png'
 import ProjectsBg2 from '../assets/ProjectsBg2.png'
 import ProjectsBg3 from '../assets/ProjectsBg3.png';
-import UiUx from '../assets/UiUx.png';
+import uiux from '../assets/uiux.png';
 import WebDesign from '../assets/WebDesign.png';
 import AppDevelopment from '../assets/AppDevelopment.png';
 import ProjectWorkImg from '../assets/ProjectWorkImg.png';
@@ -36,7 +36,7 @@ const Projects = () => {
         <div className="bg-cover" style={{ backgroundImage: `url(${ProjectsBg1})`}}>
             <h1 className='services-main'>Our Services</h1>
             <div className='project-images'>
-                <img src={UiUx} alt="uiux-image" className='project-services-image'/>
+                <img src={uiux} alt="uiux-image" className='project-services-image'/>
                 <img src={WebDesign} alt="uiux-image" className='project-services-image'/>
                 <img src={AppDevelopment} alt="uiux-image" className='project-services-image'/>
             </div>
