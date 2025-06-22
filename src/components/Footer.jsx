@@ -1,4 +1,4 @@
-import WhiteLogo from '../assets/whitelogo.png';
+import whitelogo from '../assets/whitelogo.png';
 
 
 const Footer = () => {
@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-start mb-8">
             <div className="flex items-center space-x-2 mb-6 md:mb-0">
-              <img src={WhiteLogo} alt="WebSort Logo" className="w-28 h-8" />
+              <img src={whitelogo} alt="WebSort Logo" className="w-28 h-8" />
             </div>
             <div className="flex space-x-4">
               <div className="w-8 h-8 bg-[#1877f2] rounded flex items-center justify-center">
