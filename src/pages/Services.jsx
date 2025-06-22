@@ -1,8 +1,8 @@
 import uiux from '../assets/uiux.png';
-import WebDesign from '../assets/webdesign.png';
-import AppDevelopment from '../assets/appdevelopment.png';
-import DigitalMarheting from '../assets/digitalmarketing.png';
-import ServicesBg from '../assets/servicesbg.png';
+import WebDesign from '../assets/EebDesign.png';
+import AppDevelopment from '../assets/AppDevelopment.png';
+import DigitalMarheting from '../assets/DigitalMarketing.png';
+import ServicesBg from '../assets/ServicesBg.png';
 
 import "/src/App.css";
 

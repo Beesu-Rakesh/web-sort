@@ -1,12 +1,12 @@
-import ProjectsHeroBg from '../assets/projectsherobg.png';
-import ProjectsBg1 from '../assets/projectsbg1.png'
-import ProjectsBg2 from '../assets/projectsbg2.png'
-import ProjectsBg3 from '../assets/projectsbg3.png';
+import ProjectsHeroBg from '../assets/ProjectsHeroBg.png';
+import ProjectsBg1 from '../assets/ProjectsBg1.png'
+import ProjectsBg2 from '../assets/ProjectsBg2.png'
+import ProjectsBg3 from '../assets/ProjectsBg3.png';
 import uiux from '../assets/uiux.png';
-import WebDesign from '../assets/webdesign.png';
-import AppDevelopment from '../assets/appdevelopment.png';
-import ProjectWorkImg from '../assets/projectworkimg.png';
-import BulbImg from '../assets/bulbimg.png';
+import WebDesign from '../assets/WebDesign.png';
+import AppDevelopment from '../assets/AppDevelopment.png';
+import ProjectWorkImg from '../assets/ProjectWorkImg.png';
+import BulbImg from '../assets/BulbImg.png';
 import "/src/App.css";
 
 const Projects = () => {
