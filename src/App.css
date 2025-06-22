@@ -1,0 +1,191 @@
+.nav-bg{
+    height: 10vh;
+}
+
+.hero-heading{
+    font-size: 50px;
+    font-weight: 400;
+    font-family: "roboto";
+    color: #fff;
+}
+
+.hero-meta{
+    width: 650px;
+    height: 314px;
+    padding-top: 120px;
+    padding-left: 165px;
+    letter-spacing: 0%;
+    line-height: 320%;
+}
+
+.hero-description{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Fustar";
+    color: #fff;
+    width: 512px;
+    height: 159px;
+    margin-top: 1.5rem;
+    left: 175px;
+    line-height: 25px;
+}
+.contact-btn{
+    width: 112px;
+    height: 32px;
+    border:#fff 1px solid;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.knowmore-btn{
+    width: 112px;
+    height: 32px;
+    border:#fff 1px solid;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.services-main{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 50px;
+    color: #fff;
+    padding-top: 3rem;
+    text-align: center;
+}
+
+.services-image{
+    height: 372px;
+    width: 350px;
+    border-radius: 42px;
+    border-width: 6px;
+    top: 318px;
+    left: 90px;
+
+}
+
+.services-type{
+    font-family: "Mukta";
+    font-weight: 800;
+    color: #fff;
+    font-size: 35px;
+}
+
+.services-description{
+    width: 633px;
+    height: 259px;
+    font-family: "Montserrat";
+    font-weight: 500;
+    color: #fff;
+    font-size: 30px;
+    line-height: 28px;
+}
+
+.service-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 8rem;
+}
+
+.project-about-us{
+    background-color:#99A1D752;
+    height: 345px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.project-about-h2{
+    color: #fff;
+    font-weight: 400;
+    font-size: 25px;
+    font-family: "Montserrat";
+}
+
+.project-about-h1{
+    color: #fff;
+    font-weight: 400;
+    font-size: 35px;
+    font-family: "Montserrat";
+    width: 350px;
+    line-height: 28px;
+    margin-top: 1rem;
+}
+
+.projects-about-description{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Fustar";
+    color: #fff;
+    width: 712px;
+    height: 159px;
+    margin-top: 1.5rem;
+    left: 175px;
+    line-height: 25px;
+    margin-bottom: 2rem;
+}
+
+.project-services-image{
+    height: 322px;
+    width: 300px;
+    border-radius: 42px;
+    border-width: 6px;
+    top: 318px;
+    left: 90px;
+}
+
+.project-services-image:hover{
+    transform: translateY(-7px) scale(1.15);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.18), 0 2px 8px rgba(0,0,0,0.10);
+    background: linear-gradient(135deg, #f8fafc 60%, #e0e7ff 100%);
+}
+.project-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.projects-meta{
+    width: 650px;
+    height: 314px;
+    padding-top: 50px;
+    padding-left: 50px;
+    letter-spacing: 0%;
+    line-height: 320%;
+}
+
+.project-heading3{
+    font-size: 50px;
+    font-weight: 400;
+    font-family: "roboto";
+    color: #fff;
+    font-size: 35px;
+    width: 599px;
+    line-height: 28px;
+}
+
+.projectspageimg img{
+    width: 400px;
+    height: 300px;
+}
+
+.projectspageimg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+}
+
+.bulb-img{
+    height: 300px;
+    width: 200px;
+}
