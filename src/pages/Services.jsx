@@ -1,4 +1,4 @@
-import uiux from '../assets/uiux.png';
+import uiux from '../assets/uiux.jpg';
 import WebDesign from '../assets/EebDesign.png';
 import AppDevelopment from '../assets/AppDevelopment.png';
 import DigitalMarheting from '../assets/DigitalMarketing.png';

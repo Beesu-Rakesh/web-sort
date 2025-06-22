@@ -2,7 +2,7 @@ import ProjectsHeroBg from '../assets/ProjectsHeroBg.png';
 import ProjectsBg1 from '../assets/ProjectsBg1.png'
 import ProjectsBg2 from '../assets/ProjectsBg2.png'
 import ProjectsBg3 from '../assets/ProjectsBg3.png';
-import uiux from '../assets/uiux.png';
+import uiux from '../assets/uiux.jpg';
 import WebDesign from '../assets/WebDesign.png';
 import AppDevelopment from '../assets/AppDevelopment.png';
 import ProjectWorkImg from '../assets/ProjectWorkImg.png';
