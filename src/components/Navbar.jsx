@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <>
     <nav className="bg-[#e9edfc] px-8 py-4 flex justify-between items-center nav-bg">
-      <div className="flex items-center space-x-2 ml-24">
+      <div className="flex items-center space-x-2 ml-4 md:ml-24">
         <img src={logo} alt="WebSort Logo" className="w-28 h-8" />
       </div>
     <div className='flex items-center justify-between'>
